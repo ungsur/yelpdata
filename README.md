@@ -30,7 +30,7 @@ business
         ...
     },
 }
-````
+
 review
 {
     'type': 'review',
@@ -92,3 +92,4 @@ This file is formatted as a JSON list of objects.
     },
     {...}
 ]
+```
